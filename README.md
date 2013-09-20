@@ -118,7 +118,7 @@ StAXform API
 
 To browse the Javadoc for StAXform, please navigate to: 
 
- - <https://github.com/StanLivitski/StAXform/wiki/api>
+ - <http://stanlivitski.github.io/StAXForm/javadoc/index.html>
 
 <a name="sec-repo"> </a>
 About this repository
