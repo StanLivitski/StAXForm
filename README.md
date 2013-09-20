@@ -29,7 +29,7 @@ and you don't have to write a single line of [XSLT][].
 Downloading the binary
 ======================
 
-The compiled binary of the PUB is available for download at:
+The compiled binary of StAXform is available for download at:
 
  - <https://github.com/StanLivitski/StAXForm/wiki/Download>
 
