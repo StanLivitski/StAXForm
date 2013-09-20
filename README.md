@@ -155,7 +155,7 @@ To build the StAXform's binary from this repository, you need:
    - **Apache Ant** version 1.7.1 or newer, available from the Apache Software
    Foundation <http://ant.apache.org/>.
 
-To build the StAXform, go to the directory containing its working copy and run:
+To build StAXform, go to the directory containing its working copy and run:
 
      ant
 
