@@ -35,6 +35,12 @@
     		debug="true" debuglevel="lines,source" source="6" target="6">
     		<src path="${source.dir}" />
     	</javac>
+    	<copy todir="${build.dir}" preservelastmodified="true">
+			<fileset dir="${basedir}">
+				<include name="LICENSE" />
+				<include name="NOTICE" />
+			</fileset>
+    	</copy>
     </target>
 
     <target name="javadoc" description="Generates Javadoc from the project's sources">
